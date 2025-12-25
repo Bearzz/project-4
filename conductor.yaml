@@ -1,0 +1,7 @@
+version: 1
+tasks:
+  hello:
+    description: Say hello from Conductor
+    steps:
+      - run: echo "Hello from Gemini Conductor!"
+
